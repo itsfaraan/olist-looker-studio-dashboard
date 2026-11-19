@@ -55,5 +55,5 @@ Brazilian E-commerce Public Dataset by Olist.
 
 ## Dashboard Preview
 
-A PDF export of the dashboard is available in this repository.
+[View Full Dashboard (PDF)](Untitled_Report.pdf)
 ![Dashboard Preview](Screenshot%202026-11-19%20at%2011.35.24.png)
